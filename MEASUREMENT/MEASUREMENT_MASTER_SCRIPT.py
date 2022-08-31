@@ -449,4 +449,4 @@ print('Test Stat = %.4f, p-value = %.4f' % (test_stat, pvalue))
 # Wilson lower bound metodu bize bir 'oran' için güven aralığı verir.
 # Belli bir güzergahta yapılan gözlemde, 100 araçtan 40 ının kaza yaptığı görülmüşse,
 # wilson lower bound metodu bize der ki; bu deney yüz kere tekrar edilse, kaza yapan araç oranı
-# yüzde 33 ila yüzde 40 arasında olacaktır gibi bir aralık verebilir. En kötü ihtimalle 
+# yüzde 33 ila yüzde 40 arasında olacaktır gibi bir aralık verebilir.
